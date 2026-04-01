@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "英雄の歌",
+  "base_artist": "BLUEGOATS",
+  "createdAt": "2026-04-01T10:57:39.627705Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "英雄の歌",
+      "artist": "BLUEGOATS",
+      "has_synced": false,
+      "path": "select/pl_01_英雄の歌_BLUEGOATS.txt"
+    }
+  ]
+}
